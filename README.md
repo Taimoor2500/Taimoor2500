@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at Dubizzle Labs
 
-- 🌱 I’m currently learning **ROR**
-
 - 📫 How to reach me **taimoorrashid858@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taimoor2500&label=Profile%20views&color=0e75b6&style=flat" alt="taimoor2500" /> </p>
