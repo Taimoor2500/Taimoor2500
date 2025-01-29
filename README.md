@@ -9,8 +9,8 @@
 </h1>
 
 <div align="center">
-   <p>:books: Software Developer from Pakistan.</p>
-   <p>:computer: Currently working at Dubizzle Labs</p>
+   <p>👨‍💻 Software Developer from Pakistan, turning coffee into code (and sometimes bugs).</p>
+   <p>🏢 Currently crafting digital magic at Dubizzle Labs.</p>
    <img src="https://komarev.com/ghpvc/?username=taimoor2500&label=Profile%20views&color=0e75b6&style=flat" alt="taimoor2500" />
 </div>
 
